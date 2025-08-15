@@ -1,10 +1,10 @@
 # Raven AI
 
-Welcome to the official GitHub organization for **Raven AI**! We are a leading provider of cutting-edge Agentic AI solutions designed to empower businesses with intelligent automation, enhanced customer interactions, and efficient workflows.
+Welcome to the official GitHub organization for **Raven AI**! We are a leading provider of a cutting-edge Multi-agent cloud, designed to empower businesses with intelligent automation, enhanced customer interactions, and efficient workflows.
 
 ## About Us
 
-Raven AI specializes in Agentic AI technologies that enable companies to achieve AI-driven outcomes through:
+Raven AI specializes in Multi-agent technologies that enable companies to achieve AI-driven outcomes through:
 - **Low costs** and **quick value delivery**
 - **Maximum automation** for operational efficiency
 - **Secure data architecture** to ensure privacy and compliance
